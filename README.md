@@ -8,6 +8,8 @@ Randomly selects a word from a predefined list.
 Displays a visual representation of the hangman as the player makes incorrect guesses.
 Allows the player to input guesses and provides feedback on whether the guessed letter is correct.
 Continues gameplay until the word is guessed correctly or the player runs out of attempts.
+
+
 How to Play:
 
 Run the Python script to start the game.
